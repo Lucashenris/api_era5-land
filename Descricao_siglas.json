@@ -1,0 +1,46 @@
+{
+"d2m": {
+"description": "2m dewpoint temperature (°C) | Temperatura de orvalho a 2m",
+"value": null
+},
+"sp": {
+"description": "Surface Pressure (hPa) | Pressão atmosférica em superfície",
+"value": null
+},
+"ssrd": {
+"description": "Surface solar radiation downwards (kj/m²) | Radiação solar em superfície (Radiação global)",
+"value": null
+},
+"tmax": {
+"description": "2m temperature max (°C) | Temperatura máxima a 2m",
+"value": null
+},
+"tmean": {
+"description": "2m temperature mean (°C) | Temperatura média a 2m",
+"value": null
+},
+"tmin": {
+"description": "2m temperature min (°C) | Temperatura mínima a 2m",
+"value": null
+},
+"tp": {
+"description": "Total precipitation (m) | Precipitação total",
+"value": null
+},
+"u10": {
+"description": "10m u-component of wind (m/s) | Componente u do vento a 10m",
+"value": null
+},
+"v10": {
+"description": "10m v-component of wind (m/s) | Componente v do vento a 10m",
+"value": null
+},
+"vel": {
+"description": "Velocidade do vento (m/s)",
+"value": null
+},
+"ur": {
+"description": "Umidade relativa (%)",
+"value": null
+}
+}
